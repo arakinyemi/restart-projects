@@ -1,4 +1,4 @@
-import requests
+import requests 
 api_key = "bfdf7469835fe0607f6d26faec4aeae2a96c8"
 url = input()
 api_url = f"https://cutt.ly/api/api.php?key={api_key}&short={url}"
